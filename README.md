@@ -1,31 +1,26 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MattStanl3y.MattStanl3y2"/>
 
-<h1 align="center">
-    Hi there 👋
-</h1>
+## Hi there 👋
 
-<div align="center">
- 
-  ## About Me
+Currently a Junior @ University of Nevada, Reno studying ComputerScience and Engineering with a minor in Mathematics.
+
+## About Me
 
 ```py
-  hobbies = [
+hobbies = [
       "basketball 🏀",
       "gym 🏋️",
       "baseball ⚾️",
       "gaming 🎮",
       "golf ⛳️",
       "coding 👨‍💻"
-  ]
+]
 ```
-
-</div>
 
 <div align="center"> 
   <a href="mailto:MattStanley2389@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <p> </p>
   <a href="https://www.linkedin.com/in/matt-stanley-b027372a6//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -35,12 +30,12 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,c,html,css,js,nextjs,flask&theme=light,git,github,vscode" />
-</div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,nextjs,flask,git,github,vscode&theme=light" alt="Languages/Tools" />
+  </a>
+</p>
 <br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -50,7 +45,7 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+<!--
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -62,3 +57,5 @@
 </div>
 
 <br/><br/>
+
+-->

@@ -1,10 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MattStanl3y.MattStanl3y2"/>
 
 <h1 align="center">
-    "Hi there 👋"
+    Hi there 👋
 </h1>
-
-<br/>
 
 <div align="center">
  
@@ -14,7 +12,7 @@
   hobbies = [
       "basketball 🏀",
       "gym 🏋️",
-      "hiking 🥾",
+      "baseball ⚾️",
       "gaming 🎮",
       "golf ⛳️",
       "coding 👨‍💻"
@@ -27,6 +25,7 @@
   <a href="mailto:MattStanley2389@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <p> </p>
   <a href="https://www.linkedin.com/in/matt-stanley-b027372a6//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -38,7 +37,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,c,c,html,css,js,nextjs,flask&theme=light,git,github,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>

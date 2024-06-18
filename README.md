@@ -18,10 +18,10 @@ hobbies = [
 ```
 
 <div align="center">
-  <a href="mailto:MattStanley2389@gmail.com" style="text-decoration: none; margin-right: 10px;">
+  <a href="mailto:MattStanley2389@gmail.com" style="text-decoration: none; margin-right: 15px;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/matt-stanley-b027372a6/" target="_blank" style="text-decoration: none; margin-left: 10px;">
+  <a href="https://www.linkedin.com/in/matt-stanley-b027372a6/" target="_blank" style="text-decoration: none; margin-left: 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -37,7 +37,7 @@ hobbies = [
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MattStanl3y/MattStanl3y/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MattStanl3y/MattStanl3y/output/github-contribution-grid-snake.svg" />
   
   <br/>
 

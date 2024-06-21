@@ -33,15 +33,17 @@ hobbies = [
   </a>
 </p>
 
+<!--
 <br/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MattStanl3y/MattStanl3y/output/github-contribution-grid-snake.svg" />
-  
+
   <br/>
 
 </div>
+-->
 
 <!--
 <h2 align="center">⚡ Stats ⚡</h2>
